@@ -1,0 +1,5 @@
+*.pyc
+/.mypy_cache/
+/tags
+/env/
+*.egg-info/
